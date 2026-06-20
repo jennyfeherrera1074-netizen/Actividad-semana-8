@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras 
+2. Controlar los permisos de acceso 
+3. Monitorear la actividades del sistema 
+4. Protege los datos personales de los usuarios
+5. Cifrar la información sensible 

@@ -1,0 +1,4 @@
+uname -a : muestra información completa del sistema operativo como el nombre del sistema la versión de kernel la arquitectura y otros detalles técnicos. 
+   whoami : muestra el nombre del usuario que tiene iniciada la sesión actualmente en este caso me sale codespaces-faf36a que donde  estoy trabajando
+cd .. : este Comando sirve para retroceder un nivel en la estructura de directorios del sistema
+Es útil porque permite identificar las características del servidor verifica que el usuario esté trabajo  en el facilitando la administración y mantenimiento y la solución de los problemas de una forma más segura y eficiente 
